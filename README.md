@@ -136,7 +136,7 @@ All the models can be found in the models directory created using mongoose.
 - createdAt (Date)
 - Delivered (Boolean)
 
-## Colors
+<!-- ## Colors
 
 Below is the color palette used in this application:
 
@@ -148,11 +148,4 @@ Below is the color palette used in this application:
 - ![#18a558](https://via.placeholder.com/15/18a558/000000?text=+) `#18a558`
 - ![#f9f7f4](https://via.placeholder.com/15/f9f7f4/000000?text=+) `#f9f7f4`
 - ![#202020](https://via.placeholder.com/15/202020/000000?text=+) `#202020`
-- ![#474747](https://via.placeholder.com/15/474747/000000?text=+) `#474747`
-
-## License
-
-[![License](https://img.shields.io/:License-MIT-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- MIT License
-- Copyright 2020 © [Maryam Aljanabi](https://github.com/maryamaljanabi)
+- ![#474747](https://via.placeholder.com/15/474747/000000?text=+) `#474747` -->
